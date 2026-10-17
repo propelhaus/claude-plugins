@@ -22,6 +22,20 @@
       "homepage": "https://github.com/gablabelle/mcp-kanban",
       "keywords": ["kanban", "project-management", "mcp", "task-tracking"],
       "license": "MIT"
+    },
+    {
+      "name": "app-studio",
+      "description": "Private: how Gab builds app MVPs with Claude (playbook, decision profile, starter monorepo with a living design book). Needs access to the private gablabelle/app-studio repo.",
+      "source": {
+        "source": "github",
+        "repo": "gablabelle/app-studio"
+      },
+      "version": "0.2.1",
+      "author": {
+        "name": "Gabriel Labelle"
+      },
+      "keywords": ["mvp", "playbook", "expo", "sst", "starter"],
+      "license": "UNLICENSED"
     }
   ]
 }
