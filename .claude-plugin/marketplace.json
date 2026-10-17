@@ -1,10 +1,10 @@
 {
-  "name": "gablabelle-plugins",
+  "name": "propelhaus-plugins",
   "owner": {
     "name": "Gabriel Labelle"
   },
   "metadata": {
-    "description": "Claude Code plugins by Gabriel Labelle"
+    "description": "Claude Code plugins by Studio PropelHaus (Gabriel Labelle)"
   },
   "plugins": [
     {
