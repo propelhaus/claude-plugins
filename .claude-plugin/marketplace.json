@@ -25,10 +25,10 @@
     },
     {
       "name": "app-studio",
-      "description": "Private: how Gab builds app MVPs with Claude (playbook, decision profile, starter monorepo with a living design book). Needs access to the private gablabelle/app-studio repo.",
+      "description": "Private: how Gab builds app MVPs with Claude (playbook, decision profile, starter monorepo with a living design book). Needs access to the private propelhaus/app-studio repo.",
       "source": {
         "source": "github",
-        "repo": "gablabelle/app-studio"
+        "repo": "propelhaus/app-studio"
       },
       "version": "0.2.1",
       "author": {
